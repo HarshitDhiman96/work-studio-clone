@@ -29,7 +29,7 @@ body {
     align-items: center;
     justify-content: center;
     z-index: 99;
-    /* display: none; */
+     display: none; 
     /* text-align: center;  */
 }
 
